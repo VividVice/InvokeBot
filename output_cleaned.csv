@@ -1,0 +1,2323 @@
+Team,Slot,Unit,Notes
+Defense,Unit 1,Defense Unit 1,Notes
+Defense,Unit 2,Defense Unit 2,Notes
+Defense,Unit 3,Defense Unit 3,Notes
+Attack,Unit 1,ATK Unit 1,Notes
+Attack,Unit 2,ATK Unit 2,Notes
+Attack,Unit 3,ATK Unit 3,Notes
+Defense,Unit 1,Boss Arunka,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Defense,Unit 2,Abyssal Yufine,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Defense,Unit 3,Urban Shadow Choux,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Attack,Unit 1,New Moon Luna,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Attack,Unit 2,Briar Witch Iseria,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Attack,Unit 3,Straze,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact has to be Tachi for immunity to avoid random Yufine Counter ATK Break
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes"
+Defense,Unit 1,Lone Wolf Peira,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Defense,Unit 2,Blood Blade Karin,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Defense,Unit 3,Mort,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Attack,Unit 1,Benimaru,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Attack,Unit 2,Veronica,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Attack,Unit 3,Afternoon Soak Flan,"Benimaru ideally 180+ spd on Symbol (guaranteed hit on Peira + BBK)
+Veronica high eff
+Flan own Arti
+
+Rotation: Peira S3/S2 into random target (place Flan front); Benimaru pushes; s1 with Veronica into Mort (cant counter, Veronica safe survives); Benimaru S3 into Peira (kills + proccs BBK 2nd immortality); S3 Flan into Mort; Veronica s3 mort, kill off BBK with Veronica s1. Mort cant kill flan 1v1"
+Defense,Unit 1,Urban Shadow Choux,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Defense,Unit 2,Mort,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Defense,Unit 3,Empyrean Ilynav,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Attack,Unit 1,Sea Phantom Politis,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Attack,Unit 2,Top Model Luluca,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Attack,Unit 3,Successor Taeyou,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill Ilynav, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: Kill Mort with Taeyou (yes, you will), S2/S3 Luluca into Mort (2nd kill). Ilynav/Choux kill themselves on Taeyou"
+Defense,Unit 1,Mort,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Defense,Unit 2,Afternoon Soak Flan,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Defense,Unit 3,Sea Phantom Politis,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Attack,Unit 1,New Moon Luna,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Attack,Unit 2,Frida,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Attack,Unit 3,Eternal Wanderer Ludwig,"Alternative: Instead of Frida, ML Roana also works (prone to random counter, 15% on Sea Phantom CR Pushback and Spd is thighter)
+
+Arti: 
+Luna on Book
+Frida on lvl 24 Bird's Eye View (enough to get 2 Souls)
+Ludwig on Kal'adra
+
+Positioning: Ludwig in front, Luna top row (doesnt really matter) and release imprint for more atk on Ludwig
+
+Strat:
+SB S3 Luna, S3 Frida, SB S3 Ludwig into Mort (ideally kills), SB S1 into mort if didnt die. S3 to finish off"
+Defense,Unit 1,Harsetti,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Defense,Unit 2,Blood Blade Karin,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Defense,Unit 3,Lilias,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Attack,Unit 1,Zio,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Attack,Unit 2,Commander Pavel,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Attack,Unit 3,Veronica,"Arti:
+Zio - Book
+Pavel - Symbol of Unity
+Veronica - Oath Key or Andre's Crossbow
+
+IMPORTANT:
+Zio needs 100% critchance if Harsetti is fast
+Veronica needs 14k HP+ and 1400+ Def to survive 1 BBK counter
+
+Strat vs Fast Harsetti:
+S1 Zio into Harsetti (first crit)
+SB S3 Veronica into Harsetti (for Def Break); triggers Pavel, Proccs BBK, Veronica pushes up
+S1 Veronica to kill BBK
+S3 Pavel into Lilias
+"
+Defense,Unit 1,Boss Arunka,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Defense,Unit 3,Rinak,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Attack,Unit 1,Krau,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Attack,Unit 2,Straze,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Attack,Unit 3,New Moon Luna,"Arti:
+Krau - Holy Sacrifice
+Straze - Ideally Tachi, Hell Cutter or Portrait also works
+Luna - Book
+
+Strat: Rinak S2/S3 into Krau, all gucci. Luna SB 3, Straze S3 (Kills Ilynav 100%), Krau S3 into Arunka (kills even if Ilynav revived); S2 Luna into Rinak. Auto from there if Ilynav revived prior
+
+Alternative: 
+No Straze? Use Midnight Gala Lilias. S3 Gala for sure kills Arunka. can't lose from there. Make sure Krau is on Protection set such that Gala survives Rinak splash dmg."
+Defense,Unit 1,Mort,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Defense,Unit 2,Young Senya,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Defense,Unit 3,Afternoon Soak Flan,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Attack,Unit 1,Lidica,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Attack,Unit 2,Successor Taeyou,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Attack,Unit 3,Eligos,"Arti:
+Lidica - Renewed Will (anything works tho)
+Eligos - An offer you can't refuse (anything works, too)
+Taeyou - Merciless Glutton
+
+Strat (for worst case - all 15%)
+S2 Lidica; S3 Eligos (if Mort has Resitrict, kill flan, otherwise hit Mort); if Taeyou pushed: S3, no defbreaks? atk Senya to most likely kill; S3 Lidica into Mort for pushback. Auto from here."
+Defense,Unit 1,Boss Arunka,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Defense,Unit 2,Rinak,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Defense,Unit 3,Dragon King Sharun,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Attack,Unit 1,Dragon Bride Senya,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Attack,Unit 2,Jenua,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Attack,Unit 3,Any Blue Mage,"Main Strat:
+Have one Blue Mage (any works) on Book and in Backline, needs enough HP to survive Rinak S2 (just 6* with some whatever gear is good enough)
+Jenua on Wind Rider
+DBS - 3F and as much HP as possible, neglect all else. 
+
+Rinak S2/S3 into Blue Mage (dies potentially, doesnt matter) > Sharun S3 (kills blue mage, proccs Jenua, he survives 100% with immortality up) > Jenua push in front > Soulburn S1 Jenua into Arunka (this kills if u have >3.500 ATK + 320 CD) > Soulburn S3 Bride Senya. Auto from here, you won.
+
+BEWARE: If Arunka is on PoV, you'll need Jenua on slower build (150 spd) with 4.5k ATK and 350 CD. 
+
+Alternative 1: 
+Abyssal Yufine, Lone Wolf Peira, Fallen Cecilia
+Assumes Rinak outspeeds:
+Rinak S2/S3 into highest Spd unit (usually Peira), Sharun S3. 
+If Peira low HP - S3, S1. If Peira dodged all 3 atks and has >50% HP, S1 into Arunka. S3 FCC to transfer debuffs (or in worst case she resisted all) and grant Skill Null. After that pretty much Auto. Slightly prone to Peira dodging.
+
+ALTERNATIVE 2 Strat (untested):
+Bride Senya (Bastion of Perlutia), Amiki (150+ ER), Benimaru (15k+ HP)
+How does this work?
+Rinak S2/S3 into Amiki, does NOT procc. Sharun S3 only proccs Amiki on Cascade, Benimaru survives both at low HP. 
+This assumes no counter luck!
+Benimaru S3 into Arunka (if Arunka counters, beni will die, run is in danger), if no counter you'll most likely kill something. Bride S3, Amiki S3. Technically you should win this off of all the fix dmg. 
+
+ALTERNATIVE STRAT 2 (turbo unsafe unless you're a spd whale):
+Zio at 280+ spd to guarantee Rinak outspeed
+Frida or ML Roana
+ML Ludwig at 260+ spd full dmg (you will have to SB Zio for this to work)"
+Defense,Unit 1,Harsetti,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Defense,Unit 2,Fallen Cecilia,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Defense,Unit 3,Afternoon Soak Flan,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Attack,Unit 1,Aria,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Attack,Unit 2,Silvertide Christy,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Attack,Unit 3,Doris,"Christy >250 ER + Adamant Shield
+Aria >2k Def, 14k HP, 100 ER + Abyssal Crown
+Doris 200ER, 20k HP, 2k def + Guradian Ice Crystals or Water's Origin or Shimadra's Staff 
+
+Focus fire Aria into Flan. You can't lose this. "
+Defense,Unit 1,Lone Wolf Peira,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Defense,Unit 2,Afternoon Soak Flan,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Defense,Unit 3,Archdemon Shadow,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Attack,Unit 1,Benimaru,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Attack,Unit 2,Solitaria,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Attack,Unit 3,Mort,"Instead of Mort you can use Boss Arunka, Abyssal Yufine, Green Celine, ML Celine, etc.
+
+Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Fairytale or Abyssal Crown (she needs immunity set if u don't run Boss Arunka)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Peira gonna S3/S1 into Soli. Benimaru pushes. 
+S3 Benimaru into Peira (to remove entire enemy team tempo), u 100% kill Peira and ideally kill Flan, too. 
+S3 Soli into ADS. Auto from there. 
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here
+"
+Defense,Unit 1,Lone Wolf Peira,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Defense,Unit 2,Afternoon Soak Flan,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Defense,Unit 3,Abyssal Yufine,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Attack,Unit 1,Benimaru,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Attack,Unit 2,Solitaria,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Attack,Unit 3,Mort,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Mort Holy Sacrifice (ideally immunity set, too)
+
+Benimaru needs 170-180 spd
+
+Strat:
+Peira S3(S1 into Soli. Beni moves. Usually Flan S3 into Mort, followed by S1 Yufine. 
+Bemimaru S3 into Peira. If Flan still alive, S3 Soli into Flan. S3 Mort. Auto from there.
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Eligos
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Eligos arti is whatever you like
+S3 Spoli, S3 Eligos into flan. you win from here"
+Defense,Unit 1,Lone Wolf Peira,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Defense,Unit 2,Afternoon Soak Flan,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Defense,Unit 3,Blood Blade Karin,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Attack,Unit 1,Benimaru,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Attack,Unit 2,Solitaria,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Attack,Unit 3,Veronica,"Arti:
+Benimaru on Symbol of Unity (100% hitchance vs Peira)
+Solitaria on Proof of Valor (she needs immunity set)
+Veronica on Oath Key or Andre's Crossbow (also needs 15k+ HP, 1500 Def, 150+ Eff vs counter or er bbk)
+
+Benimaru needs 170-180 spd, Veronica Spd around 200 is ok.
+
+Peira S3/S1
+Veronica S3 BBK, S1 Peira if BBK countered otherwise just hit BBK again
+Benimaru S3 into Peira.
+Veronica s1 to kill off BBK. just auto from here
+
+Alternative 1:
+Boss Arunka (100% needs immunity set); ML Ilynav (Aurius); Ruele (Candle Stick because 2 AoE units can procc it)
+
+Focus Flan down, S3 Ruele on arunka first thing
+
+Alternative 2:
+Amiki, Sea Phantom Politis, Veronica
+
+Amiki mandatory Immunity set
+Sea Phantom mandatory Unseen Observer, Veronica on Guiding Light (+super tanky with high eff)
+
+S3 Spoli, SB S3 Veronica into BBK, if BBK countered, S1 into Peira, if not, s1 into BBK; easy from here. You might lose Veronica on 2nd enemy cycle"
+Defense,Unit 1,Mort,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Defense,Unit 2,Fallen Cecilia,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Defense,Unit 3,Urban Shadow Choux,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Attack,Unit 1,Sea Phantom Politis,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Attack,Unit 2,Top Model Luluca,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Attack,Unit 3,Successor Taeyou,"Politis on Unseen Observer, SB 3
+Top Model on Book
+Taeyou on GC Krau Arti (additional 10 souls)
+
+If all dBreaks land: Kill FCC, S2/S3 into Mort with Luluca. Choux forced to atk Taeyou and kills herself
+
+If no dbreaks: S1 Mort with Taeyou (you won't kill), S2/S3 Luluca into Mort (extinction). FCC/Choux kill themselves on Taeyou"
+Defense,Unit 1,Lone Wolf Peira,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Defense,Unit 2,Mort,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Defense,Unit 3,Urban Shadow Choux,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Attack,Unit 1,Rinak,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Attack,Unit 2,Dragon King Sharun,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Attack,Unit 3,Boss Arunka,"Rinak 300+ spd, Sharun 260+ spd, Arunka mandatory Immunity and highest HP (account for Rinak HP * 1.2). Suggestion: HP/DEF/Immunity set with Noble Oath arti becaue you cant counter anyway.
+
+Rinak S2/S3 on Choux, S3 Sharun. Smoot sailing going forward
+
+If u feel unlucky vs. Mort counters, you can go for Astro Elena but you absolutely have to outspeed Peira or you lose on the spot. "
+Defense,Unit 1,Harsetti,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Defense,Unit 2,Dragon Bride Senya,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Defense,Unit 3,Blood Blade Karin,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Attack,Unit 1,Empyrean Ilynav,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Attack,Unit 2,Young Senya,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Attack,Unit 3,Alencia,"Just be giga tanky. Can put Ilynav on Adamant Shield. 
+
+S3 Young Senya, S3 Alencia (yes, we dont care about Bride S3 but we care about def buff); S3 Ilynav into BBK. 
+
+Kill BBK first, then Setti. Bride does nothing after S3.
+
+Dont have Ilynav? Diene and Doris are also fine. Diene is better tho. Fighter Maya also works perfectly fine."
+Defense,Unit 1,Harsetti,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Defense,Unit 2,Mort,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Defense,Unit 3,Afternoon Soak Flan,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Attack,Unit 1,Mediator Kawerik,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Attack,Unit 2,Yulha,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Attack,Unit 3,Afternoon Soak Flan,"Arti:
+Handguy on Sweet Miracoli (lvl 30 & absolutely mandatory)
+Yulha on Holy Sac (lvl 30 & absolutely mandatory)
+Flan ideally Dreamlike Holiday, if u wanna be dank Bloodstone will work, too
+
+Strat:
+Setti S3, RNG-Jesus takes the wheel. Assume enemy flan takes 2nd turn, she S3s into Yulha, most likely doesnt kill. Mort S3, kills Yulha, comes back. 
+
+Yulha S3 to kill Flan (guarantee); Handguy S3; Flan S3 into Setti. 
+Kill order: Flan (via Yulha, nobody else touches her); Setti; Mort"
+Defense,Unit 1,Boss Arunka,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Defense,Unit 2,Ruele,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Defense,Unit 3,Rinak,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Attack,Unit 1,Briar Witch Iseria,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Attack,Unit 2,Straze,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Attack,Unit 3,Krau,"Arti:
+Krau - Holy Sac with Prot Set and turbo high HP
+Iseria - You can safely run her mid-range spd but make sure to have high eff and ideally Renewed Will
+Straze - Ideally Benimaru's Tachi, Hell Cutter works, too
+
+Order:
+Rinak s2/s3 into Krau, Iseria S3, Straze S3 (kills Arunka); Krau S3 Ruele; Rinak is free real estate from here on out. 
+
+Important:
+Make sure Straze is slower than Iseria
+Iseria spd: Straze spd * 1.051 (or to make it turbo safe 1.06)"
+Defense,Unit 1,Harsetti,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Defense,Unit 2,Dragon King Sharun,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Defense,Unit 3,Blood Blade Karin,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Attack,Unit 1,Afternoon Soak Flan,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Attack,Unit 2,Young Senya,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Attack,Unit 3,Alencia,"Just be giga tanky.
+
+S3 Young Senya, S3 Alencia (if  BBK moves after Sharun you have to S1 into Sharun); S3 Flan into Sharun or Harsetti if Sharun is dead. 
+
+Kill Sharun first, procc 2nd immortal on bbk and kill setti."
+Defense,Unit 1,Conqueror Lilias,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Defense,Unit 2,Empyrean Ilynav,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Defense,Unit 3,Abyssal Yufine,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Attack,Unit 1,Doris,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Attack,Unit 2,Death Dealer Ray,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Attack,Unit 3,Urban Shadow Choux,"Kill order: Conq > Ilynav > Yufine. If it's Elbris Yufine, keep her sleeping with DDR. 
+
+Alternative 1:
+Fenne, Roana, Elvira
+
+Kill Order: Ilynav > Yufine > Conq
+Safe all your Souls for Elvira if she has to refresh her Immortality
+
+Alternative 2:
+New Moon Luna, Frida, ML Ludwig
+Cleave it. Kill Yufine with S2/S1 from Lud to check for HS, then S3."
+Defense,Unit 1,Harsetti,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Defense,Unit 2,Mort,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Defense,Unit 3,Young Senya,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Attack,Unit 1,Mediator Kawerik,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Attack,Unit 2,Afternoon Soak Flan,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Attack,Unit 3,Roana,"Arti:
+Handguy on Sweet Miracoli (lvl 30 absolutely mandatory)
+Flan: Own Arti or Bloodstone
+Roana: if u feeling Dank Stella Harpa, otherwise just Shimadra or whatever u like
+
+Flan mandatory on Immunity set (such that she doesn't get randomly stunned from crown on Setti S3 - yes, Crown works on a miss if u didn't know)
+
+Make Handguy highest HP (30k+ with 2k def), Roana 20k+ HP with 1500+ def
+
+Order up to RNG-Jesus but these are the moves you make regardless of order:
+first cycle: Handguy S3, Roana S3 (if she goes first and everybody has unbuffable you're sorta fucked and you S1 onto Mort); Flan S3 onto Mort.
+2nd cycle: Roana S3 (or S1 Mort depending on 1st cycle), s1 Flan
+3rd cycle: Full on s1 into Mort or Setti if Mort is gone by now. Focus Yenya last"
+Defense,Unit 1,Mort,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Defense,Unit 2,Dragon Bride Senya,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Defense,Unit 3,Briar Witch Iseria,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Attack,Unit 1,Elena,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Attack,Unit 2,Empyrean Ilynav,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Attack,Unit 3,Afternoon Soak Flan,"Jenua also works instead of Flan. Flan is safer though.
+
+Arti:
+Elena - Doctor's Bag
+Ilynav - Rise of a Monarch
+Flan - Own Arti or Bloodstone
+
+Elena ideally 260+ spd to avoid getting surprised by 260 Bride & 250 spd Mort
+
+Strat:
+Elena S3 (if she is faster than Iseria, S1 into Mort no matter if he's in backline or not). S3 Ilynav into Mort, S3 Flan into Mort. He can't revive, let's use that to our advantage. Focus Senya after that. Leave Briar for last so nobody revives."
+Defense,Unit 1,Boss Arunka,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Defense,Unit 2,Mort,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Defense,Unit 3,Urban Shadow Choux,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Attack,Unit 1,New Moon Luna,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Attack,Unit 2,Briar Witch Iseria,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Attack,Unit 3,Straze,"Luna fastest unit
+Briar faster than Straze, formula: Briar Spd >1.05x Straze Spd; ideally on high eff to secure defbreak on all units
+Straze Artifact ideally Tachi for atk buff but Hell Cutter works, too
+
+Rotation: SB S3 Luna, S3 Iseria, S3 Straze = Entire team wipes
+Mort could survive but he's so slow, he'll get lapped by Luna and/or Briar so you're gucci. Can't revive anyway."
+Defense,Unit 1,Boss Arunka,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Defense,Unit 3,Spirit Eye Celine,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Attack,Unit 1,Hellion Lua,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Attack,Unit 2,New Moon Luna,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Attack,Unit 3,Straze,"Arti:
+Hellion Lua - Unseen Observer
+New Moon Luna - Book
+Straze - Tachi or Hell Cutter
+
+If ML Celine is fastest unit, you win by default. If not, it's whatever. She dies like a dog.
+
+Important Spd tuning:
+Lua > Luna > Straze
+
+Strat:
+Lua SB S3; Celine might go 2nd and atk into Lua. You kill her through counters guaranteed. If Luna goes beforehand, you might even keep 1 counter left for Arunka. SB S3 Luna (that's why we have Unseen Observer); S3 Straze to kill Ilynav. Arunka will be low HP, S3 into Lua. she does no dmg because unbuffable. Auto from here.
+
+Alternative:
+No Lua? Use Nahkwol instead, same Arti as above. SB S3, S2 into Arunka. Rest as stated above. "
+Defense,Unit 1,Ruele,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Defense,Unit 2,Urban Shadow Choux,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Defense,Unit 3,Bystander Hwayoung,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Attack,Unit 1,Sea Phantom Politis,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Attack,Unit 2,Jenua,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Attack,Unit 3,Sinful Angelica,"Arti:
+Politis - Sapiosexual Fan
+Jenua - Wind Rider
+Singi - Sacred Tree Branch/War Horn/Idol's Cheer/Touch of Rekos/Prophetic Candlestick (all good)
+
+Strat:
+S3 Politis, S3 Singi, S1 Jenua into Hwa. After that finish Ruele, clap Shoe. 
+
+Make sure your Singi survives one Choux S3. Make sure Spoli is 290+ Spd."
+Defense,Unit 1,Boss Arunka,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Defense,Unit 2,Bystander Hwayoung,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Defense,Unit 3,Blood Blade Karin,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Attack,Unit 1,Midnight Gala Lilias,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Attack,Unit 2,Spirit Eye Celine,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Attack,Unit 3,Fallen Cecilia,"Enemy Team is most likely omega slow and even if this was a 250 spd BBK, it does not matter.
+
+Optimal order: Gala > Celine > FCC but doesn't matter much tbh.
+
+S3 Gala into Arunka (she should die). Hwa triggers, nobody bats an eye (ideal target: Gala); if Arunka dead, just S3 with Celine. if Arunka still alive and Seline has a buff you SB S1 to finish her off, then S3. FCC just S3 for Skill Null. Props if FCC moves before BBK but doesnt matter much. BBK S3s, doesnt matter. Hwa S3s into Seline and gets countered. If u have one soul, SB S1 FCC into BBK.
+
+Kill Order: Arunka > Hwa > BBK (Gala can solo BBK)"
+Defense,Unit 1,Dragon Bride Senya,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Defense,Unit 2,Dragon King Sharun,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Defense,Unit 3,Rinak,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Attack,Unit 1,Fallen Cecilia,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Attack,Unit 2,Krau,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Attack,Unit 3,Afternoon Soak Flan,"Arti:
+Krau - Holy Sac
+FCC - Aurius
+Flan - Her own Arti
+
+Krau and FCC ideally want 200 spd, FCC as fast as 250 spd. Krau needs 30k HP, you can forfeit all def because Rinak/Bride pen def anyway. FCC handles fixed dmg. 
+
+Turn cycle:
+Rinak S2/S3 into Krau, Sharun S3, Senya S3 into FCC, Rinak S1 into Krau (you most likely procc HS here if u haven't already)
+Your turn to strike: FCC S3 (super nice if u got debuffs), Krau S3 into Sharun; Flan S3 into Senya. All in into Senya, kill rinak after. If u see a chance to wipe rinak (even if it means to procc Bride passive, do it. Bride can't kill because of FCC passive)
+
+Alternative (only works whenever Senya is not on Holy Sac):
+Zio, ML Roana, Taeyou
+
+Have Roana on Book, Taeyou on Merciless Glutton, Zio on Eff Arti (Cursed Compass goat)
+
+S3 either Sharun or Senya (fast Sharun never has ER so pick her); Roana S3; Taewho SB S3 > S1 into Sharun (takes away all momentum). After that kill Senya, then Rinak.
+
+You will (!) 100% lose either Roana or Zio during this. Rinak S2 always targets current highest CR unit. That is usually going to be Zio. And since he's lowest HP after that, he'll tank S3. He won't die due to Deify but Senya finishes him off unless you cycle beforehand. "
+Defense,Unit 1,Boss Arunka,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Defense,Unit 3,Harsetti,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Attack,Unit 1,Silvertide Christy,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Attack,Unit 2,Young Senya,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Attack,Unit 3,Aria,"Arti:
+Christy - Adamant Shield (or Rise of a Monarch but Adamant is usually better)
+Young Senya - her own
+Aria - Fairytale for a Nightmare (alt: Bastion of Hope or Chatty if you feel like you need more ER or survivability)
+
+Strat:
+Setti S3 > Young Senya S3, Christy S3, Aria S3 - auto. How lose?
+
+Christy should ideally have 250+ ER, Aria ideally 50-100 ER"
+Defense,Unit 1,Boss Arunka,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Defense,Unit 2,Navy Captain Landy,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Defense,Unit 3,Rinak,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Attack,Unit 1,Krau,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Attack,Unit 2,New Moon Luna,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Attack,Unit 3,Straze,"Ain't nobody trolling with 200+ spd Arunka/Landy here. 
+
+Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Arunka). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Landy (whichever is in killrange), S3 Krau into remainign target. If Arunka is revived through HS, you still win by default as she won't do much (you lap her a billion times anyway)"
+Defense,Unit 1,Belian,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Defense,Unit 2,Bystander Hwayoung,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Defense,Unit 3,Lone Wolf Peira,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Attack,Unit 1,Amiki,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Attack,Unit 2,Jenua,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Attack,Unit 3,Blood Blade Karin,"Arti:
+Amiki - Uberius Tooth
+Jenua - Wind Rider or his own Arti
+BBK - Shepad/Alexa's Basket
+
+Ideally all 3 units on immunity
+
+Strat:
+We let RNG-sus take the wheel. Most Belian here will be fast on 3f. So expect Amiki, BBK, and Jenua to be low HP. 
+
+Jenua S3 into Hwa. S3 Amiki into either Belian or Hwa (whichever happens to go first between her and Jenua), BBK S3. Auto from there.
+
+ALTERNATIVE COMP 1:
+(Outspeed angle) FCC + Guard Captain Krau + Rinak
+FCC on Aurius
+GC Krau on his own arti
+Rinak on her own arti
+
+Krau/FCC ideally on immunity set.
+
+Rinak S2/S3 into Hwa. Peira does something. Belian S3, nobody bats an eye. Krau S3, FCC S3. Focus Belian. Stun Belian with Krau S2. U win at some point. 
+
+ALTERNATIVE COMP 2:
+Babe Arunka (Counter/Immuty Set + RP), Ruele, FCC
+
+You focus down Hwa first, then Belian, then Peira. This will take ages unless Babe counters like a goddess."
+Defense,Unit 1,Boss Arunka,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 2,Rinak,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 3,Fallen Cecilia,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 1,New Moon Luna,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 2,Krau,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 3,Straze,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills FCC). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 230+ spd to not get surprised by fast Arunka (we had this case on 21st of May)
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 1,Boss Arunka,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Defense,Unit 3,Bystander Hwayoung,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Attack,Unit 1,Aria,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Attack,Unit 2,Silvertide Christy,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Attack,Unit 3,Urban Shadow Choux,"Arti:
+Christy - Adamant Shield (or Bastion for more ER but beware, Basion ER doesn't move to Aria!)
+Aria - Fairytale (or Bastion if u need more ER, make sure only one Bastion is in the fight)
+Choux - Sweet Miracle (for safety measures)
+
+This is basically auto."
+Defense,Unit 1,Boss Arunka,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Defense,Unit 3,Blood Blade Karin,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Attack,Unit 1,New Moon Luna,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Attack,Unit 2,Straze,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Attack,Unit 3,Briar Witch Iseria,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Iseria - Symbol of Unity, Elegaic Candle (Nahkwol def break arti), Andre's Crossbow
+
+Strat:
+SB S3 Luna > S3 Iseria (if dps: bbk dies) > S3 Straze (kills Ilynav, can't revive, for sure kills BBK) > finish off Arunka. "
+Defense,Unit 1,Boss Arunka,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Defense,Unit 2,Empyrean Ilynav,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Defense,Unit 3,Afternoon Soak Flan,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Attack,Unit 1,Frida,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Attack,Unit 2,Lidica,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Attack,Unit 3,Spirit Eye Celine,"Arti:
+Frida - Bird's Eye View (lvl 24 or higher)
+Lidica - Renewed Will (lvl 30)
+Celine - Wind Rider (can be slower and full-on dmg)
+
+Strat:
+SB S2 Lidica > S3 Frida > S3 Lidica into Arunka > SB S1 Celine into Arunka (should die) > SB S1 Celine into Ilynav > if Ilynav in killrange Celine S1 into her, other wise S3. Auto from here"
+Defense,Unit 1,Lone Wolf Peira,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Defense,Unit 2,Blood Blade Karin,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Defense,Unit 3,Briar Witch Iseria,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Attack,Unit 1,Young Senya,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Attack,Unit 2,Alencia,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Attack,Unit 3,Fighter Maya,"Arti:
+Maya - Rocket Punch/MOAS
+Young Senya - Proof of Friendship
+Alencia - Symbol of Unity
+
+Rotation:
+Peira S3/S1 into Maya > Briar (usually) S3 > Young Senya S2 > Senya S3 > Alencia S3 (if enemy is not on ER, you'll win here > BBK S3 > BBK S1 > Briar S1 > Peira S1 > Maya S3 into Peira > you pick them apart from here.
+
+At any point Maya counters you'll auto-win for sure. Technically speaking you can leave the game on auto for the entire fight and still win as this is giga safe."
+Defense,Unit 1,Harsetti,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Defense,Unit 2,Mort,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Defense,Unit 3,Westwind Executioner Schuri,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Attack,Unit 1,Young Senya,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Attack,Unit 2,Alencia,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Attack,Unit 3,Bystander Hwayoung,"Arti:
+Senya - Proof of Friendshop
+Alencia - Prayer of Solitude
+Hwa - Sigurd
+
+Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
