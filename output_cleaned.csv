@@ -2321,3 +2321,693 @@ Alencia - Prayer of Solitude
 Hwa - Sigurd
 
 Setti S3 > Senya S2 > Senya S3 > Alencia S3 > Hwa S3 into Mort (or Schuri if still alive) > auto from here. "
+Defense,Unit 1,Rinak,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Defense,Unit 2,Dragon King Sharun,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Defense,Unit 3,Empyrean Ilynav,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Attack,Unit 1,Diene,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Attack,Unit 2,Sylvian Sage Vivian,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Attack,Unit 3,Fallen Cecilia,"Arti:
+Diene - Proof or Guardian Ice Crystal (former if u cant reach stat range)
+Vivian - Book
+FCC - Aurius
+
+Stats:
+Diene >20k HP/1500 DEF/250 Spd/as much ER as u can fit
+FCC >30k HP/1500 DEF
+Vivian >12k HP/1000 DEF
+
+Strat:
+Rinak S2/S3 Diene > Sharun S3 > Diene S3 > Ilynav S3 > FCC S3 > Rinak S1 (Diene) > SSV SB S1, u win from here by focussing down Rinak/Sharun."
+Defense,Unit 1,Lidica,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Defense,Unit 2,Blood Blade Karin,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Defense,Unit 3,Briar Witch Iseria,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Attack,Unit 1,Zio,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Attack,Unit 2,Veronica,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Attack,Unit 3,Commander Pavel,"Arti:
+Zio - Book
+Veronica - Oath Key or Andre's Crossbow
+Pavel - Symbol of Unity
+
+Stat requirements:
+Zio 100% crit (mandatory), 250+ Spd
+Veronica S2 (her own CR push) EE; 15k+ HP at 1500 def; 180 spd (100% outspeeding 320 Briars)
+Pavel 5k ATK/330 CD
+
+Strat:
+Zio S1 into BBK (if she counters, he's dead but it's alright)> SB S3 Veronica into BBK > Pavel S2 proccs BBK and Iseria, potentially kills Lidica > if super fast Iseria, kill her otherwise BBK > Pavel S3 into the other one > finish off Lidica"
+Defense,Unit 1,Boss Arunka,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Defense,Unit 2,Harsetti,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Defense,Unit 3,Mort,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Attack,Unit 1,Arbiter Vildred,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Attack,Unit 2,Young Senya,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Attack,Unit 3,Mort,"Arby - Alexa's Basket (CD + Torrent set, ideally 5k/350)
+Mort - Holy Sac (highest HP >30k)
+Senya - Proof of Friendship (ideally some ER)
+
+Prepare for high HP/DEF Babe Arunka on Noble Oath and Immunity set (if counter set bro is dented lol)
+
+Strat: 
+Setti S3 > Senya S2 > Senya S3 > Mort S3 > Arunka S3 > Arby most likely dies, cums back > Arby S3 (this should kill either Mort or Setti)
+_________________________________________________
+
+Alternative:
+Young Senya, Mort, ML Hwa
+
+Make Sure Senya is on Spotted Mouse for 10 souls to SB Hwa into Arunka
+Hwa on Destro set"
+Defense,Unit 1,Boss Arunka,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Defense,Unit 2,New Kid Adin,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Defense,Unit 3,Abyssal Yufine,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Attack,Unit 1,New Moon Luna,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Attack,Unit 2,Straze,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Attack,Unit 3,Eligos,"Arti:
+Luna - Book
+Straze - Tachi, Hellcutter, or Portrait
+Eligos - Symbol of Unity + Highest ATK EE
+
+Spd tuning important: Luna > Straze > Eligos
+
+Luna SB S3 > Straze S3 (kills Arunka or Yufine if she's on Prot Set) > Eligos S2 kills Adin > Eligos S1 > auto from here vs Arunka (or Yufine, whichever is left)"
+Defense,Unit 1,Boss Arunka,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Defense,Unit 2,Harsetti,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Defense,Unit 3,New Kid Adin,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Attack,Unit 1,Young Senya,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Attack,Unit 2,Midnight Gala Lilias,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Attack,Unit 3,Eligos,"Senya - Proof of Friendship (Prot set ideally)
+Gala - Wind Rider (3x Torrent ideal)
+Eligos - Oath Key (2x torrent, Pen) - highest ATK EE (!!)
+
+Setti S3 > Senya S2 > Senya S3 > Gala S3 (kills Arunka) > Eligos proccs S2 (kills Adin) > Eligos S1 (for Dual) > done"
+Defense,Unit 1,Lone Wolf Peira,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Defense,Unit 2,Belian,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Defense,Unit 3,Urban Shadow Choux,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Attack,Unit 1,Sea Phantom Politis,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Attack,Unit 2,Jenua,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Attack,Unit 3,Last Rider Krau,"Arti:
+Spoli - War Horn
+LRK - Bastion of Perlutia
+Jenua - Symbol of Unity
+
+Assumes being outsped:
+Peira S3/S1 > Choux S3 > Belian S3 > Spoli S3 > Jenua S1 (Belian, kills) > LRK S3 > Choux and Peira S1 > Spoli into Peira > Jenua into Peira (should kill) > finish off Choux"
+Defense,Unit 1,Rinak,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Defense,Unit 2,Empyrean Ilynav,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Defense,Unit 3,Bystander Hwayoung,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Attack,Unit 1,Frida,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Attack,Unit 2,Blood Blade Karin,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Attack,Unit 3,Briar Witch Iseria,"Frida - PoV
+BBK - Alexa's Basket
+Briar - Renewed Will
+
+Spd tuning: Briar > Frida > BBK 
+Important stats: Frida >20k HP, ideally 25k/1500 DEF/110 ER
+Briar >200 Eff/220 Spd
+BBK just ultra high damage, 3x Torrent or Destro+Torrent
+
+Rinak S2/S3 in to Frida > Briar S3 > Frida S3 > BBK S3 (kills entire team if u landed def break on Ilynav/Rinak)"
+Defense,Unit 1,Rinak,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Defense,Unit 2,Afternoon Soak Flan,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Defense,Unit 3,Lone Wolf Peira,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Attack,Unit 1,Benimaru,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Attack,Unit 2,Solitaria,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Attack,Unit 3,Krau,"Arti:
+Krau - Holy Sac
+Solitaria - Fairytale (also mandatory immunity set)
+Benimaru - Symbol of Unity
+
+Rinak S2/S3 into Krau > Peira S3/S1 into Soli > Benimaru S3 into Peira, potentially kills flan off of S2 procc > control Rinak/Flan gg
+
+Make Sure Benimaru has 15k+ HP in case you don't kill Flan turn 1 with Benimaru and she gets a 2nd turn to S1
+
+Alternative:
+Boss Arunka instead of Krau also should work. She needs Holy Sac though. I'd much rather prefer Krau as he has inbuild aurius"
+Defense,Unit 1,Boss Arunka,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Defense,Unit 2,Rinak,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Defense,Unit 3,Belian,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Attack,Unit 1,Boss Arunka,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Attack,Unit 2,Rinak,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Attack,Unit 3,Fallen Cecilia,"Arti:
+Arunka - Rocket Punch/MOAS
+Rinak - Her own (or RnL)
+FCC - Aurius
+
+Arunka/FCC on Immunity (mandatory)
+
+Strat (we assume enemy is faster, for consistency E Rinak = Enemy Rinak)
+E Rinak S2/S3 > Rinak S2/S3 (most likely kills enemy Arunka unless she's giga tanky) > Belian S3 > Arunka S3 (now enemy Arunka is dead) > FCC S3 > focus enemy rinak whenever possible"
+Defense,Unit 1,Rinak,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Defense,Unit 2,Dragon Bride Senya,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Defense,Unit 3,Mort,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Attack,Unit 1,Empyrean Ilynav,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Attack,Unit 2,Fallen Cecilia,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Attack,Unit 3,Urban Shadow Choux,"Arti:
+Fcc - Aurius (ideally Immunity set in case Mort is faster)
+Ilynav - Monarch or Holy Sac (ideally Immunity set in case Mort is faster)
+Choux - Sweet Miracoli
+
+Focus Mort, once Rinak is unstealthed focus her, last Senya. In an ideal world FCC moves before Mort for Skill Null."
+Defense,Unit 1,Boss Arunka,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 2,Dragon Bride Senya,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 3,Rinak,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 1,New Moon Luna,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 2,Krau,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Attack,Unit 3,Straze,"Arti:
+Krau - Holy Sac (lvl 30 mandatory)
+Luna - Book
+Straze - Ideally Tachi but honestly, anything works. You overkill by a landslide.
+
+Strat:
+Rinak S2/S3 into Krau. Luna SB S3, Straze S3 (kills Senya). Rinak S1 into Krau (he dies, comes back), Luna S2 into Rinak or Arunka (most likely Arunka because of passive), S3 Krau into Arunka if still alive (highly likely) or Rinak. Rinak will S2/S1 at some point again.
+
+Stat hallmarks:
+Straze ideally 240+ spd to not get surprised by fast Arunka or Senya
+Krau 30k+ HP at 200+ Spd (>100 ER only if you can fit it)
+Luna just fast ideally >20k HP for good chip dmg from S2"
+Defense,Unit 1,Boss Arunka,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
+Defense,Unit 2,Bystander Hwayoung,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
+Defense,Unit 3,Archdemon Shadow,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
+Attack,Unit 1,Sea Phantom Politis,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
+Attack,Unit 2,Amiki,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
+Attack,Unit 3,Jenua,"Arti:
+Poli - Unseen Observer
+Amiki - Uberius Tooth (Immunity set mandatory)
+Jenua - Wind Rider (Immunity set mandatory)
+
+Spoli S3 > Jenua SB S1 into Arunka (usually kills unless trap Arunka on Proof and >25k HP) > S1 Amiki > S1 Spoli etc etc.
+
+Kill order: Arunka > ADS > Hwa"
