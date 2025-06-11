@@ -4955,3 +4955,171 @@ Lilias - Dark Blood Keeper/Portrait
 Straze - Tachi/Hell Cutter/Creation & Destruction
 
 Setti S3 > Senya S2 > S3 > Gala S3 (Arunka, should usually kill) > Straze S3 (kills Harsetti + Arunka if she were to be left alive) > Straze S2 > finish off Choux"
+Defense,Unit 1,Boss Arunka,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Defense,Unit 2,Belian,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Defense,Unit 3,Bystander Hwayoung,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Attack,Unit 1,Sea Phantom Politis,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Attack,Unit 2,Sinful Angelica,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Attack,Unit 3,Jenua,"Singi - Idol's Cheer
+Politis - War Horn
+Jenua - Wind Rider
+
+Jenua on Wind Rider mandatory
+
+Sea Phantom S3 > Singi S3 > Belian S3 > Jenua S1 into Arunka > Hwa S2 > Arunka S3 into Singi > Focus down Arunka, then Belian, finish off Hwa last"
+Defense,Unit 1,Sea Phantom Politis,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Defense,Unit 2,Rinak,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Defense,Unit 3,Afternoon Soak Flan,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Attack,Unit 1,Zio,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Attack,Unit 2,Lone Wanderer Ludwig,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Attack,Unit 3,Solitaria,"Zio - Book (Release Imprint)
+Ludwig - Book (250+ spd)
+Soli - Book (250+ spd)
+
+Zio SB S3 Flan > Ludwig SB S1 Rinak > SB S2 Rinak > S3 > SPP S3 > finish off"
+Defense,Unit 1,Rinak,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Defense,Unit 2,Dragon King Sharun,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Defense,Unit 3,Young Senya,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Attack,Unit 1,Zio,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Attack,Unit 2,Frida,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Attack,Unit 3,Spirit Eye Celine,"Zio - Book (Release imprint)
+Frida - Bird's-Eye View (lvl 24)
+Celine - Wind Rider
+
+Zio SB S3 > Frida S3 > Celine SB S1 into Rinak (kills) > SB S1 into Sharun (kills) > S3 gg"
+Defense,Unit 1,Boss Arunka,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
+Defense,Unit 2,Rinak,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
+Defense,Unit 3,Lidica,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
+Attack,Unit 1,Moon Bunny Dominiel,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
+Attack,Unit 2,Briar Witch Iseria,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
+Attack,Unit 3,Blood Blade Karin,"Moon Dom - Bird's Eye View (lvl 24 mandatory)
+Iseria - VI. The Lovers (yes, we need the barrier)
+BBK - Shepard of the Hollow
+
+Spd tuning:
+Moon Dom > Briar > BBK
+
+The fight:
+Lidica S2 > Rinak S2 Moon Dom > Rinak S3 (random) > Lidica S3 (the who got hit by Rinak s3) > Moon Dom S3 > Briar SB S3 > BBK S3
+
+If Briar lands all 3 def breaks, u win on the spot. otherwise just play it out, u cant lose"
